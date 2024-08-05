@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/home_screen.c.o CMakeFiles/main.dir/bar_graph.c.o CMakeFiles/main.dir/bubble_sort.c.o -o /home/eventhorizon/dev/c/g/algo/bin/main  lib/liblvgl.a lib/liblvgl_examples.a lib/liblvgl_demos.a lib/liblvgl_thorvg.a /usr/lib/x86_64-linux-gnu/libSDL2.so -lm -lpthread lib/liblvgl.a
